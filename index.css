@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+header {
+    background-color: white;
+    color: black;
+    padding: 10px 0;
+    text-align: center;
+    
+}
+
+nav {
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+color: #1da1f2;
+text-decoration: none;
+font-weight: bold;
+}
+
+.title {
+font-size: 20;
+}
+
+.container-one {
+display: flex;
+
+}
+
+
+img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
